@@ -1,2 +1,0 @@
-# Alif_HydrocarbonExplorer_2026
-Alif_HydrocarbonExplorer_2026
