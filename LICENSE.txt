@@ -1,0 +1,32 @@
+Copyright (c) 2026 Muhammad Alif Alfatih Fauzan
+All Rights Reserved
+
+This software and its associated files ("Alif Hydrocarbon Pattern Explorer 2026")
+are the exclusive intellectual property of Muhammad Alif Alfatih Fauzan,
+developed under the supervision of Iwan Kurniawan.
+
+PROHIBITED ACTIONS — without prior written permission from the author:
+- Copying or reproducing this software in whole or in part
+- Modifying, adapting, or creating derivative works
+- Distributing, publishing, or making available to third parties
+- Using for commercial purposes
+- Claiming authorship or ownership
+
+PERMITTED ACTIONS:
+- Viewing and using the simulator for personal educational purposes
+- Citing this work in academic publications with proper attribution
+
+PROPER ATTRIBUTION FORMAT:
+  Fauzan, M. A. A. (2026). Alif Hydrocarbon Pattern Explorer 2026
+  [Interactive simulator]. SMPN 73 Jakarta.
+  Supervised by Iwan Kurniawan.
+  Retrieved from https://github.com/[username]/alif-hydrocarbon-explorer-2026
+
+This software is part of an ongoing scientific research project
+targeting publication in JPII — Jurnal Pendidikan IPA Indonesia (Scopus/SINTA 1).
+
+For permissions and inquiries:
+  Author      : Muhammad Alif Alfatih Fauzan
+  Email       : alifmathbook@gmail.com
+  Supervisor  : Iwan Kurniawan
+  Email       : iwankurniawanmail@gmail.com
